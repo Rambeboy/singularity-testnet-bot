@@ -7,11 +7,9 @@
 
 ### SINGULARITY FINANCE TESTNET
 New Testnet : **Singularity Finance**
-**Claim Faucet** : [Here](https://faucet-testnet.singularityfinance.ai/)
-
-**Connect New Wallet** : [Here](https://singularityfinance.ai/testnet)
-
-**Complete Zeally** : [Here](https://zealy.io/cw/singularityfinance/)
+- **Claim Faucet** : [Claim Here](https://faucet-testnet.singularityfinance.ai/)
+- **Connect New Wallet** : [Here](https://singularityfinance.ai/testnet)
+- **Complete Zeally** : [Here](https://zealy.io/cw/singularityfinance/)
 
 - Get Test SFI Tokens
 - Swap SFI > wSFI or Other
