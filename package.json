@@ -33,6 +33,7 @@
     "sqlite": "^5.1.1",
     "sqlite3": "^5.1.7",
     "twisters": "^1.1.0",
-    "winston": "^3.13.0"
+    "winston": "^3.13.0",
+    "https-proxy-agent": "^7.0.5"
   }
 }
