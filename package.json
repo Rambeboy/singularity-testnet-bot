@@ -9,7 +9,7 @@
     "start": "node scripts/start.js",
     "dev": "node index.js",
     "test": "node test.js",
-    "build": "rm -rf app && javascript-obfuscator --config build-config.json && cp -r src/core/deployer app/src/core"
+    "build": "rm -rf app && javascript-obfuscator --config build-config.json"
   },
   "keywords": [
     "singularity-bot",
@@ -21,7 +21,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rambeboy/singularity-bot.git.git"
+    "url": "git+https://github.com/Rambeboy/singularity-testnet-bot.git.git"
   },
   "dependencies": {
     "bip39": "^3.1.0",
