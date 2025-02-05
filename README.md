@@ -53,7 +53,11 @@ New Testnet : **Singularity Finance**
     ```
    nano config/config.js
     ```
-5. To run Auto TX
+5. Configure the proxy
+   ```
+   nano config/proxy_list.js
+   ```
+6. To run the bot
    ```
    npm run start
    ```
@@ -75,7 +79,7 @@ New Testnet : **Singularity Finance**
 5. Navigate to `singularity-testnet-bot` directory. 
 6. Navigate to `accounts` directory.
 7. Now open `acccounts.js` and setup your accounts. 
-8. Now Back to `singularity-testnet-bot` directory and Navigate to `config` directory and adjust the `config.js` as needed.
+8. Now Back to `singularity-testnet-bot` directory and Navigate to `config` directory and adjust the `config.js` and `proxy_list.js` as needed.
 9.  Back to `singularity-testnet-bot` directory.
 10. To start the app open your `Command Prompt` or `Power Shell`
 11. To run auto Tx Bot
