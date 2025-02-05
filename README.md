@@ -23,12 +23,16 @@ New Testnet : **Singularity Finance**
 
 ## BOT FEATURE
 
-- Multi Account 
+- Multi Account
+- Proxy Support
 - Support PK & SEED
-- Daily Bridge
-- Daily Wrap & Unwrap
+- Daily Bridge (Disabled)
+- Daily Wrap & Unwrap (Disable)
 - Daily Stake & Unstake
 - Daily Claim Staking Reward
+- Daily Swap
+- Daily Add Liquidity
+- Daily Travel Rule (Later)
 
 ## SETUP & CONFIGURE BOT
 
